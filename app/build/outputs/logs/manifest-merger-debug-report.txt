@@ -1,0 +1,322 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:17:1-55:12
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:17:1-55:12
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:17:1-55:12
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/cbceaaf3f7243bb56684d615cb7059ee/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/e9c4e003464725eaec7ae21f9b71be8b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-support-fragment-1.6.3.aar/b641259d61a465f47bd0f3f90803bd7f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:17:1-74:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/aef53974a9ca874c7293e4caf7189281/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/d363b1510b52f6a93419a6217e6d61c1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha01.aar/af16f9888a7afc91cd5d4367fa0d55cf/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/f4e9615d9108275e51f7387c5929b13a/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/4742185cf09deb649d14fc325b02916f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/36aea49d24141b8a377ef737513efff6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha01.aar/b9fd69a6eaf3b494ce0e2b61c131d647/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/22debac3f8bc08846b391a3b50d1a624/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/81041db31fde32f9ce546fddf4d6ae02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/c6b466a20704af2fd5de901e5554408d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/4465997e19fc4b0fb200d179293f177d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/d1307de9e3de203d7f61a39cb2be2991/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/b6d5f4c4865505b980d0b327d08ec728/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/b8f2bc01db928474ae59f27c3089ffba/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/e6186f1a8fef498273e3ee155ef7bd92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/a972cb3c9b869fd05f2ac56218cef5b0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/63184ca824919a814cdb3caf860ff1dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/27de092b34c77ccefb966c4ecbc32cae/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/bbf1aa9fbe0c496e635e929217ce9f3e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/b2acb0854279249ee57ac5fa0eb16f01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/f2a25fa2b51c11d42b4d905847230433/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/4f1fcef9d5d44c04b6829d183ebfd046/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/12076f7f12fd2f6db4fe2584f0947cfe/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/75ed2b31a561a55a59a25bdf36d78f47/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6236196d1cf9954207814d98108ecf28/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/32f9eea29164f97d7df602f51a5bd3b1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/597c73f0e18577a3ba8513fa695b4e99/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/09b3ef246c1003bbca45433eee92874a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha02.aar/2169b07659f1ae307968c33eb2a7c1ad/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/74dd38aaf1245b92faab89a1d689848a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/bf6ee54832e64a9f7b079512df1c352f/AndroidManifest.xml:17:1-25:12
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-analyzer-1.6.3.aar/0eaa81639f923046664a6ee3e94c863c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1a053bc5a6839c4edf7da9a0ff92b463/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/cf203051c8b305b7c890e5b3bbd5790c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/ab426fa54af3fd442d3e6c2e54192516/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/210ce97d51f0841f3eb9b767d33f26d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/a32cd976893fbfb935f4aecec21ff61b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cf2b7bc73c3d21c0f1aa9552e9c3eb5b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/81146b15e8af90bc5d55fb0ef8210bcd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/98fd8397f86d2a880382256bb654d3d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c0dd8f8016b8377d7ad92968c099f498/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:17:1-55:12
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:17:1-55:12
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:17:1-55:12
+	package
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:19:11-60
+		INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:17:1-55:12
+		INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:18:11-57
+	android:versionCode
+		INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:17:1-55:12
+		INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:17:11-69
+application
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:21:5-53:19
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-support-fragment-1.6.3.aar/b641259d61a465f47bd0f3f90803bd7f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-support-fragment-1.6.3.aar/b641259d61a465f47bd0f3f90803bd7f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:28:5-72:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:28:5-72:19
+MERGED from [com.google.android.material:material:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha01.aar/af16f9888a7afc91cd5d4367fa0d55cf/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha01.aar/af16f9888a7afc91cd5d4367fa0d55cf/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/f4e9615d9108275e51f7387c5929b13a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/f4e9615d9108275e51f7387c5929b13a/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha02.aar/2169b07659f1ae307968c33eb2a7c1ad/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha02.aar/2169b07659f1ae307968c33eb2a7c1ad/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/bf6ee54832e64a9f7b079512df1c352f/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/bf6ee54832e64a9f7b079512df1c352f/AndroidManifest.xml:22:5-23:19
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-analyzer-1.6.3.aar/0eaa81639f923046664a6ee3e94c863c/AndroidManifest.xml:22:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-analyzer-1.6.3.aar/0eaa81639f923046664a6ee3e94c863c/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha02.aar/2169b07659f1ae307968c33eb2a7c1ad/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:25:9-41
+	tools:ignore
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:28:9-48
+	android:icon
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:23:9-36
+	android:theme
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:27:9-40
+	android:name
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:22:9-46
+activity#com.example.android.codelabs.navigation.MainActivity
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:29:9-41:20
+	android:name
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:29:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:30:13-35:29
+action#android.intent.action.MAIN
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:33:27-73
+category#android.intent.category.LAUNCHER
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:34:27-74
+receiver#com.example.android.codelabs.navigation.DeepLinkAppWidgetProvider
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:43:9-51:20
+	android:name
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:43:19-60
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:44:13-46:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:45:17-84
+	android:name
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:45:25-81
+meta-data#android.appwidget.provider
+ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:48:13-50:68
+	android:resource
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:50:17-65
+	android:name
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml:49:17-58
+uses-sdk
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/cbceaaf3f7243bb56684d615cb7059ee/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/databinding-adapters-3.3.0.aar/cbceaaf3f7243bb56684d615cb7059ee/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/e9c4e003464725eaec7ae21f9b71be8b/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/databinding-runtime-3.3.0.aar/e9c4e003464725eaec7ae21f9b71be8b/AndroidManifest.xml:22:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-support-fragment-1.6.3.aar/b641259d61a465f47bd0f3f90803bd7f/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-support-fragment:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-support-fragment-1.6.3.aar/b641259d61a465f47bd0f3f90803bd7f/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/aef53974a9ca874c7293e4caf7189281/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-ktx-1.0.0-alpha08.aar/aef53974a9ca874c7293e4caf7189281/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/d363b1510b52f6a93419a6217e6d61c1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-ui-1.0.0-alpha08.aar/d363b1510b52f6a93419a6217e6d61c1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha01.aar/af16f9888a7afc91cd5d4367fa0d55cf/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha01.aar/af16f9888a7afc91cd5d4367fa0d55cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/f4e9615d9108275e51f7387c5929b13a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha2] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/constraintlayout-2.0.0-alpha2.aar/f4e9615d9108275e51f7387c5929b13a/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/4742185cf09deb649d14fc325b02916f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha01.aar/4742185cf09deb649d14fc325b02916f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/36aea49d24141b8a377ef737513efff6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/36aea49d24141b8a377ef737513efff6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha01.aar/b9fd69a6eaf3b494ce0e2b61c131d647/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha01.aar/b9fd69a6eaf3b494ce0e2b61c131d647/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/22debac3f8bc08846b391a3b50d1a624/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-ktx-1.0.0-alpha08.aar/22debac3f8bc08846b391a3b50d1a624/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/81041db31fde32f9ce546fddf4d6ae02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/81041db31fde32f9ce546fddf4d6ae02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/c6b466a20704af2fd5de901e5554408d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/c6b466a20704af2fd5de901e5554408d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/4465997e19fc4b0fb200d179293f177d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-fragment-1.0.0-alpha08.aar/4465997e19fc4b0fb200d179293f177d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/d1307de9e3de203d7f61a39cb2be2991/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-ktx-1.0.0-alpha08.aar/d1307de9e3de203d7f61a39cb2be2991/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/b6d5f4c4865505b980d0b327d08ec728/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-runtime-1.0.0-alpha08.aar/b6d5f4c4865505b980d0b327d08ec728/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/b8f2bc01db928474ae59f27c3089ffba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/b8f2bc01db928474ae59f27c3089ffba/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/e6186f1a8fef498273e3ee155ef7bd92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/transition-1.0.0.aar/e6186f1a8fef498273e3ee155ef7bd92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/a972cb3c9b869fd05f2ac56218cef5b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha02.aar/a972cb3c9b869fd05f2ac56218cef5b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/63184ca824919a814cdb3caf860ff1dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.0.1.aar/63184ca824919a814cdb3caf860ff1dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/27de092b34c77ccefb966c4ecbc32cae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/27de092b34c77ccefb966c4ecbc32cae/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/bbf1aa9fbe0c496e635e929217ce9f3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/bbf1aa9fbe0c496e635e929217ce9f3e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/b2acb0854279249ee57ac5fa0eb16f01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0.aar/b2acb0854279249ee57ac5fa0eb16f01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/f2a25fa2b51c11d42b4d905847230433/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/f2a25fa2b51c11d42b4d905847230433/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/4f1fcef9d5d44c04b6829d183ebfd046/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/4f1fcef9d5d44c04b6829d183ebfd046/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/12076f7f12fd2f6db4fe2584f0947cfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/12076f7f12fd2f6db4fe2584f0947cfe/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/75ed2b31a561a55a59a25bdf36d78f47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/75ed2b31a561a55a59a25bdf36d78f47/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6236196d1cf9954207814d98108ecf28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/6236196d1cf9954207814d98108ecf28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/32f9eea29164f97d7df602f51a5bd3b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha02.aar/32f9eea29164f97d7df602f51a5bd3b1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/597c73f0e18577a3ba8513fa695b4e99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-ktx-1.0.0-alpha08.aar/597c73f0e18577a3ba8513fa695b4e99/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/09b3ef246c1003bbca45433eee92874a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-alpha08] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-navigation-common-1.0.0-alpha08.aar/09b3ef246c1003bbca45433eee92874a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha02.aar/2169b07659f1ae307968c33eb2a7c1ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha02] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha02.aar/2169b07659f1ae307968c33eb2a7c1ad/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/74dd38aaf1245b92faab89a1d689848a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/74dd38aaf1245b92faab89a1d689848a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/bf6ee54832e64a9f7b079512df1c352f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha01] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha01.aar/bf6ee54832e64a9f7b079512df1c352f/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-analyzer-1.6.3.aar/0eaa81639f923046664a6ee3e94c863c/AndroidManifest.xml:20:5-44
+MERGED from [com.squareup.leakcanary:leakcanary-analyzer:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-analyzer-1.6.3.aar/0eaa81639f923046664a6ee3e94c863c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1a053bc5a6839c4edf7da9a0ff92b463/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/1a053bc5a6839c4edf7da9a0ff92b463/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/cf203051c8b305b7c890e5b3bbd5790c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/cf203051c8b305b7c890e5b3bbd5790c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/ab426fa54af3fd442d3e6c2e54192516/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/ab426fa54af3fd442d3e6c2e54192516/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/210ce97d51f0841f3eb9b767d33f26d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/210ce97d51f0841f3eb9b767d33f26d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/a32cd976893fbfb935f4aecec21ff61b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/a32cd976893fbfb935f4aecec21ff61b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cf2b7bc73c3d21c0f1aa9552e9c3eb5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0.aar/cf2b7bc73c3d21c0f1aa9552e9c3eb5b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/81146b15e8af90bc5d55fb0ef8210bcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/81146b15e8af90bc5d55fb0ef8210bcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/98fd8397f86d2a880382256bb654d3d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/98fd8397f86d2a880382256bb654d3d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c0dd8f8016b8377d7ad92968c099f498/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/c0dd8f8016b8377d7ad92968c099f498/AndroidManifest.xml:20:5-44
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+		ADDED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/justin.brooks/sandbox/ActionModeWrapperLeak/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:23:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:23:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:24:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:24:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:26:5-77
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:26:22-74
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:29:9-32:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:32:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:33:9-36:45
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:36:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:34:13-70
+provider#com.squareup.leakcanary.internal.LeakCanaryFileProvider
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:38:9-46:20
+	android:grantUriPermissions
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:42:13-47
+	android:authorities
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:40:13-88
+	android:exported
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:39:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:43:13-45:66
+	android:resource
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:45:17-63
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:44:17-67
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:48:9-61:20
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:53:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:50:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:52:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:51:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:55:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:54:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:49:13-80
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:56:13-60:29
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:62:9-71:68
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:68:13-42
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:64:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:67:13-82
+	android:excludeFromRecents
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:65:13-46
+	android:roundIcon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:69:13-57
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:66:13-52
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:71:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:70:13-76
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.6.3] /Users/justin.brooks/.gradle/caches/transforms-1/files-1.1/jetified-leakcanary-android-1.6.3.aar/bc09fb2b166b40fd57e8fe5896f42b88/AndroidManifest.xml:63:13-93
